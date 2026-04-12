@@ -13,7 +13,7 @@ This project converts inspection and thermal reports into a structured Detailed 
 3. Generate client-friendly DDR report
 
 ## Tech Used
-- Python
+- Python 
 - PyMuPDF
 - Streamlit / Google Colab
 
